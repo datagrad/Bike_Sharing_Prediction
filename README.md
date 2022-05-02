@@ -1,4 +1,8 @@
 # <span style="color:darkred"><u><center> Bike Sharing Prediction
+  
+<a href="https://datagrad.github.io/"><img src="https://img.shields.io/badge/My%20Data%20Science%20Projects-Click%20here%20to%20Check%20my%20other%20Projects-blue">
+
+
 A Linear regression machine learning model to predict the growth of Bike sharing market for Boom Bikes.
 
 
