@@ -1,4 +1,4 @@
-# <span style="color:darkred"><u><center> **Bike Sharing Prediction**
+# <span style="color:darkred"><u><center> Bike Sharing Prediction
 A Linear regression machine learning model to predict the growth of Bike sharing market for Boom Bikes.
 
 
